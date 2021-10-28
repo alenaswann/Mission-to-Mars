@@ -1,2 +1,2 @@
-# Mission-to-Mars
-Module 10 - Webscraping
+# Mission to Mars
+### These files run a web application to scrape Mars information from various online sources, including a news article from https://redplanetscience.com, a featured image from https://spaceimages-mars.com, a table of mars facts from https://galaxyfacts-mars.com, and images of the Mars hemispheres from https://marshemispheres.com/. These items are then stored in a Mongo Database and displayed on a local webpage using Flask. The webpage also includes a button to perform a new webscrap to get any updated information.
